@@ -1,0 +1,13 @@
+PROJECT STRUCTURE
+trading_bot/
+│
+├── bot/
+│   ├── client.py
+│   ├── orders.py
+│   ├── validators.py
+│   ├── logging_config.py
+│
+├── .env
+├── cli.py
+├── requirements.txt
+└── README.md
