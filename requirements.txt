@@ -1,0 +1,8 @@
+#requirements.txt:
+python-binance
+python-dotenv
+colorama
+tenacity
+
+#Install:
+pip install -r requirements.txt
