@@ -1,5 +1,0 @@
-# requirements.txt
-python-binance
-python-dotenv
-colorama
-tenacity
