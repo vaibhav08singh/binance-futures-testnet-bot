@@ -1,0 +1,6 @@
+RUN COMMANDS
+MARKET:
+python cli.py --symbol BTCUSDT --side BUY --type MARKET --qty 0.001
+
+LIMIT:
+python cli.py --symbol BTCUSDT --side SELL --type LIMIT --qty 0.001 --price 30000
